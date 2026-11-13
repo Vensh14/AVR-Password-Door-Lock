@@ -84,6 +84,18 @@ Reference images are in docs/images section: ATmega328P pinout, LCD and keypad.
 <!-- Add hardware photos here if you have them, for example:
 !\[Dot board build](docs/images/hardware.jpg)
 
+### Hardware build (dot board)
+
+![Hardware overview](docs_images/hardware-overview.jpg)
+![ATmega328P on dot board](docs_images/hardware-atmega-board.jpg)
+
+Early breadboard prototype and power supply (2x 18650 cells with a buck converter):
+
+![Breadboard prototype](docs_images/hardware-breadboard-prototype.jpg)
+![Power supply](docs_images/hardware-power-supply.jpg)
+
+Demo video: [media/demo.mp4](media/demo.mp4)
+
 ## Repository structure
 
 ```
