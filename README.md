@@ -79,7 +79,7 @@ stateDiagram-v2
 |Green LED (access allowed)|PD2|
 |Red LED (access denied)|PD3|
 
-Reference images are in [`docs/images`](docs/images): ATmega328P pinout, LCD and keypad.
+Reference images are in docs/images section: ATmega328P pinout, LCD and keypad.
 
 <!-- Add hardware photos here if you have them, for example:
 !\[Dot board build](docs/images/hardware.jpg)
