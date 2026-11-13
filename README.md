@@ -4,7 +4,7 @@ A multi-user keypad password door lock built on the **ATmega328P (8-bit AVR)** a
 
 The design was developed and tested in **Proteus**, and a simple hardware version was then built on a dot board with the same components.
 
-> Group project (3 members), January to April 2025, 3rd-year EEE, University of Peradeniya.
+> Group project (3 members), January to April 2026, 3rd-year EEE, University of Peradeniya.
 
 \---
 
