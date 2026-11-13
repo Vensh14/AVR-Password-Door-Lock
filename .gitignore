@@ -1,0 +1,22 @@
+# Microchip Studio build output
+Debug/
+Release/
+*.obj
+*.lss
+*.map
+*.tmp
+*.eep
+*.elf
+.vs/
+*.suo
+*.atsuo
+
+# Proteus backups / autosave
+Backup of *
+*.pdsbak
+*.workspace
+*Autosaved*
+
+# OS
+Thumbs.db
+.DS_Store
